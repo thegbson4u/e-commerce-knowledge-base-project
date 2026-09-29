@@ -1,4 +1,4 @@
-# E-Commerce AI Knowledge Graph Retrieval System
+# query intent and automated suggestion through LLMs
 
 ## 1. Project Overview
 This repository implements a lightweight, complete Knowledge Graph-backed AI Agent pipeline for an e-commerce platform. It demonstrates how to parse natural language to query a graph strictly, eliminating hallucinations by separating retrieval from generation.
